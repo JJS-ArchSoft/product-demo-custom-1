@@ -16,14 +16,13 @@
 
     <groupId>com.jjsarchsoft.demo</groupId>
     <artifactId>product-demo-custom-1</artifactId>
-    <version>${revision}</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>product-demo-custom-1</name>
     <description>Demo project for Spring Boot</description>
     <packaging>pom</packaging>
 
     <properties>
         <java.version>1.8</java.version>
-        <revision>0.0.1-SNAPSHOT</revision>
         <version.common-lang>3.11</version.common-lang>
         <version.hibernate-validator>6.0.10.Final</version.hibernate-validator>
         <version.plugin.flatten>1.2.5</version.plugin.flatten>
